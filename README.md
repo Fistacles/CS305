@@ -1,1 +1,8 @@
 # CS305
+1) Artemis Financial is a consulting company that develops individualized financial plans for customers such as savings, retirement, investments, and insurance. They wanted us to handle the modernization of the security of the program the company uses and use the latest security software.
+2) When finding the security vulnerabilties we had to ensure that Artemis Financial was running on the most up to date version of its software. Secure coding is important to ensure that updates can happen without having to rewrite large swathes of code. Being secure gives a company a good reputation that can bring in more custgomers and also makes sure that their customers are not harmed.
+3) The most diffuclt part of the vulnerability assessment was getting it to generate, but once I added the correct imports it went smoothly.
+4) Layers of security were increased by adding SHA-256 as a security encryption and testing it to make sure it worked. A certificate was generated, showing that it works for the system as well.
+5) The code was tested again after refactoring. The vulnerability report was generated after and showed less vulnerabilities than before and that no new vulnerabilites were added.
+6) I used springboot, maven checks, and SHA-256, all useful tools for checking the level of security a system has.
+7) I would show a future employer the vulnerability reports to show that I knew how to eliminate false positives and how to update to the latest version of maven to ensure the most up to date infomation appears. The encyption is also a good thing to show as it demonstates I know how to do an ecryption for a program.
